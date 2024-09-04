@@ -1,5 +1,5 @@
 # Project OP 2022
-Project done for basic of programming subject in first semester of Software Engineering.
+Project done for basics of programming subject in first semester of Software Engineering.
 
 ## Technologies Used
 - Python
